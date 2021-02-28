@@ -35,12 +35,13 @@
     "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
-    "@types/d3": "4.13.0",
+    "@types/d3": "4.13.12",
     "@types/history": "^4.6.1",
     "@types/node": "^9.6.2",
     "@types/qs": "^6.5.1",
     "@types/react": "^16.0.21",
     "@types/react-dom": "^16.0.2",
+    "@types/react-router": "^4.3.1",
     "@types/react-router-dom": "^4.2.0",
     "awesome-typescript-loader": "^3.3.0",
     "babel-core": "^6.26.0",
@@ -63,7 +64,7 @@
     "typescript": "^2.8.3",
     "url-loader": "~0.6.2",
     "webpack": "~3.8.1",
-    "webpack-dev-server": "^2.9.4",
+    "webpack-dev-server": ">=3.1.11",
     "webpack-merge": "^4.1.1"
   }
 }
